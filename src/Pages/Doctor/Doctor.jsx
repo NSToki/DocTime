@@ -30,7 +30,7 @@ const Doctor = ({ singleDoc }) => {
       </span>
 
        
-        <Link to={`/DocDetails/${docId}`}>
+        <Link to={`/DoctorDetails/${docId}`}>
         <div>
            <button className="btn items-center border-[#176AE5] border-solid  text-[#176AE5] rounded-3xl px-8">
               View Details
