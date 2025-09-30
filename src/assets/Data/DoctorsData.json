@@ -1,122 +1,122 @@
 [
   {
-    "id": 1,
-    "name": "Dr. Md. Rashidul Islam",
-    "image": "https://uhlbd.com/consultant/dr-iqbal",
+    "docId": 1,
+    "docName": "Dr. Md. Rashidul Islam",
+    "image": "https://www.doctorbangladesh.com/wp-content/uploads/2025/09/Dr.-Mohammed-Borhan-Uddin-Fahim.jpg",
     "education": ["MBBS (Dhaka)", "MD (Cardiology, PG Hospital)"],
     "speciality": "Cardiologist",
     "experience_years": 12,
     "registration_number": "BMDC-2013-04521",
-    "details_route": "/doctors/1"
+    "availability": "Mon-Fri 9am-5pm"
   },
   {
-    "id": 2,
-    "name": "Dr. Nazmun Nahar",
+    "docId": 2,
+    "docName": "Dr. Nazmun Nahar",
     "image": "https://beta.uhlbd.com/consultant/reazur-rahman19",
     "education": ["MBBS (Chittagong)", "FCPS (Obst. & Gyn.)"],
     "speciality": "Obstetrics & Gynecology",
     "experience_years": 9,
     "registration_number": "BMDC-2016-08734",
-    "details_route": "/doctors/2"
+    "availability": "Mon, Wed, Fri 10am-4pm"
   },
   {
-    "id": 3,
-    "name": "Dr. A. K. M. Salahuddin",
+    "docId": 3,
+    "docName": "Dr. A. K. M. Salahuddin",
     "image": "https://commons.wikimedia.org/wiki/File%3AMale_Doctor%2C_Mushfiqul_Arefeen_Khan_Duke%2C_Bangladesh.jpg",
     "education": ["MBBS (Rajshahi)", "MS (Orthopedics)"],
     "speciality": "Orthopedic Surgeon",
     "experience_years": 15,
     "registration_number": "BMDC-2010-03211",
-    "details_route": "/doctors/3"
+    "availability": "Tue-Thu 11am-6pm"
   },
   {
-    "id": 4,
-    "name": "Dr. Farhana Akter",
+    "docId": 4,
+    "docName": "Dr. Farhana Akter",
     "image": "https://bdspecializedhospital.com/doctor/108",
     "education": ["MBBS (Dhaka)", "MD (Pediatrics)"],
     "speciality": "Pediatrician",
     "experience_years": 7,
     "registration_number": "BMDC-2018-09876",
-    "details_route": "/doctors/4"
+    "availability": "Mon-Fri 8am-2pm"
   },
   {
-    "id": 5,
-    "name": "Dr. Samiul Haque",
+    "docId": 5,
+    "docName": "Dr. Samiul Haque",
     "image": "https://bdspecializedhospital.com/doctor/68",
     "education": ["MBBS (Sylhet)", "Diploma (Emergency Medicine)"],
     "speciality": "Emergency Medicine",
     "experience_years": 10,
     "registration_number": "BMDC-2014-06122",
-    "details_route": "/doctors/5"
+    "availability": "24/7"
   },
   {
-    "id": 6,
-    "name": "Dr. Laila Sultana",
+    "docId": 6,
+    "docName": "Dr. Laila Sultana",
     "image": "https://bdspecializedhospital.com/doctor/30",
     "education": ["MBBS (Dhaka)", "MD (Endocrinology)"],
     "speciality": "Endocrinologist",
     "experience_years": 8,
     "registration_number": "BMDC-2017-07458",
-    "details_route": "/doctors/6"
+    "availability": "Mon, Thu 9am-3pm"
   },
   {
-    "id": 7,
-    "name": "Dr. Towhidul Islam",
+    "docId": 7,
+    "docName": "Dr. Towhidul Islam",
     "image": "https://bdspecializedhospital.com/doctor/108",
     "education": ["MBBS (Chittagong)", "MD (Neurology)"],
     "speciality": "Neurologist",
     "experience_years": 11,
     "registration_number": "BMDC-2012-02990",
-    "details_route": "/doctors/7"
+    "availability": "Wed-Fri 10am-5pm"
   },
   {
-    "id": 8,
-    "name": "Dr. Mahbuba Begum",
+    "docId": 8,
+    "docName": "Dr. Mahbuba Begum",
     "image": "https://bdspecializedhospital.com/doctor/68",
     "education": ["MBBS (Dhaka)", "FCPS (General Surgery)"],
     "speciality": "General Surgeon",
     "experience_years": 13,
     "registration_number": "BMDC-2011-04005",
-    "details_route": "/doctors/8"
+    "availability": "Mon-Sat 9am-6pm"
   },
   {
-    "id": 9,
-    "name": "Dr. Imran Hossain",
+    "docId": 9,
+    "docName": "Dr. Imran Hossain",
     "image": "https://bdspecializedhospital.com/doctor/30",
     "education": ["MBBS (Rajshahi)", "MD (Gastroenterology)"],
     "speciality": "Gastroenterologist",
     "experience_years": 6,
     "registration_number": "BMDC-2019-10112",
-    "details_route": "/doctors/9"
+    "availability": "Tue, Thu 10am-4pm"
   },
   {
-    "id": 10,
-    "name": "Dr. Shampa Rani",
+    "docId": 10,
+    "docName": "Dr. Shampa Rani",
     "image": "https://bdspecializedhospital.com/doctor/108",
     "education": ["MBBS (Comilla)", "Diploma (Dermatology)"],
     "speciality": "Dermatologist",
     "experience_years": 5,
     "registration_number": "BMDC-2020-11235",
-    "details_route": "/doctors/10"
+    "availability": "Mon-Fri 9am-2pm"
   },
   {
-    "id": 11,
-    "name": "Dr. Md. Ehsanul Karim",
+    "docId": 11,
+    "docName": "Dr. Md. Ehsanul Karim",
     "image": "https://bdspecializedhospital.com/doctor/68",
     "education": ["MBBS (Dhaka)", "MD (Pulmonology)"],
     "speciality": "Respiratory Medicine",
     "experience_years": 14,
     "registration_number": "BMDC-2011-05321",
-    "details_route": "/doctors/11"
+    "availability": "Mon, Wed, Fri 11am-5pm"
   },
   {
-    "id": 12,
-    "name": "Dr. Nusrat Jahan",
+    "docId": 12,
+    "docName": "Dr. Nusrat Jahan",
     "image": "https://bdspecializedhospital.com/doctor/30",
     "education": ["MBBS (Khulna)", "MPhil (Psychiatry)"],
     "speciality": "Psychiatrist",
     "experience_years": 9,
     "registration_number": "BMDC-2016-08880",
-    "details_route": "/doctors/12"
+    "availability": "Tue-Thu 9am-3pm"
   }
 ]
